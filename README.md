@@ -1,5 +1,5 @@
 # Formally-Modeled-CWE
-This is a repostitory containing the formal Alloy model of [Common Weakness Enumerations](https://cwe.mitre.org/) (CWEs) described in the paper "Formally Modeled Common Weakness Enumerations (CWEs)." Note: figures from the paper are also included here.
+This is a repostitory containing the formal Alloy model of [Common Weakness Enumerations](https://cwe.mitre.org/) (CWEs) described in the paper "[Formally Modeled Common Weakness Enumerations (CWEs)](https://asyde-series.github.io/asyde2024/)." Note: figures from the paper are also included here.
 
 ## CWEs modeled for various security tactics: 
 * **Audit:** 532, 778, 779
